@@ -2,7 +2,7 @@
   
 
 <h2 align="left">Hi 👋! My name is Rashad and I'm a Developer, from  Sri Lanka</h2>
-<h3 align="left"> I’m currently learning Kotlin</h3>
+
 
 ###
 
