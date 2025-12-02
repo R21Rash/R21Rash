@@ -57,30 +57,18 @@
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=R21Rash&show_icons=true&theme=tokyonight" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R21Rash&theme=tokyonight" />
-
-</div>
-
----
-
 ## 📫 Connect With Me  
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:caderrashad@gmail.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rashad-cader)  
 
 ---
 
 ## 🎯 Fun Facts  
 - ☕ Coffee = better code  
 - 💡 Always learning something new  
-- 🧩 I enjoy solving problems and building cool projects  
-- 🎨 I love clean UI and modern design
+- 🧩 Enjoy solving problems and building cool projects  
+- 🎨 Love clean UI and modern design  
 
 ---
 
 > **“Strive for progress, not perfection.”** 🚀
-
