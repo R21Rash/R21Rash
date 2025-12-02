@@ -1,53 +1,86 @@
 # 👋 Hi, I’m Rashad (R21Rash)  
-## Developer | Full-Stack • Mobile • Web • Automation  
+## Full-Stack Developer | Mobile Developer | Automation Enthusiast  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R21Rash&theme=dracula&no-frame=true&margin-w=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=R21Rash&theme=dracula&no-frame=true&margin-w=15" alt="github trophies" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
-- I’m a developer from Sri Lanka 🇱🇰 — building web and mobile applications, and experimenting with automation & modern architectures  
-- I love combining clean UI, efficient backend logic and maintainable code  
-- Passionate about modern web stacks, clever UI/UX, and delivering smooth, bug-free experiences  
+- Developer from Sri Lanka 🇱🇰  
+- Building modern apps using **Flutter**, **Node.js**, **React**, and **C#**  
+- Passionate about automation, clean architecture, microservices & DevOps  
+- Love crafting smooth UI/UX with performance in mind  
+- Always learning, always experimenting 🚀  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-**Frontend / Web**  
+### **🌐 Frontend / Web**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss)
 
-**Backend / General-Purpose**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)  
-![C#](https://img.shields.io/badge/C--sharp-239120?style=for-the-badge&logo=c-sharp)  
+### **📱 Mobile Development**  
+![Flutter](https://img.shields.io/badge/Flutter-0468d7?style=for-the-badge&logo=flutter)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
 
-*(Add more badges based on what you pick up next — e.g. Node.js, Flutter, Docker, etc.)*
+### **⚙️ Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js)  
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)  
+![Firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=firebase)  
+![C#](https://img.shields.io/badge/C--Sharp-239120?style=for-the-badge&logo=c-sharp)
+
+### **🗄 Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+### **🐳 DevOps, Cloud & CICD**  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)  
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git)
 
 ---
 
-## 📌 What I’m Working On / Interests  
-- Building small-to-medium web & mobile projects for learning and experimentation  
-- Exploring automation, clean architecture, and modular code structure  
-- Learning new frameworks / languages to expand versatility  
+## 📌 What I’m Focusing On  
+- Modern full-stack systems  
+- Flutter apps with beautiful UI & animations  
+- Microservices with Node.js + Docker  
+- Cloud deployments & automation  
+- Personal tools, utilities & experiments
 
 ---
 
-## 📫 Get In Touch  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
+## 📈 GitHub Stats  
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=R21Rash&show_icons=true&theme=tokyonight" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R21Rash&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📫 Connect With Me  
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
 
 ---
 
 ## 🎯 Fun Facts  
-- 📚 Always learning — curious about how things work under the hood  
-- 🧩 Love solving problems through code  
-- ☕️ Coffee-lover ☕ — code flows better with a good cup  
+- ☕ Coffee = better code  
+- 💡 Always learning something new  
+- 🧩 I enjoy solving problems and building cool projects  
+- 🎨 I love clean UI and modern design
 
 ---
 
-> “Strive for progress, not perfection.” 🚀
+> **“Strive for progress, not perfection.”** 🚀
+
