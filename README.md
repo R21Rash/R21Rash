@@ -1,4 +1,8 @@
-# 👋 Hi, I’m Rashad (R21Rash)  
+████   ███   ████ █   █  ███  ████      ███   ███  ████  █████ ████  
+█   █ █   █ █     █   █ █   █ █   █    █     █   █ █   █ █     █   █ 
+████  █████  ███  █████ █████ █   █    █     █████ █   █ ████  ████  
+█  █  █   █     █ █   █ █   █ █   █    █     █   █ █   █ █     █  █  
+█   █ █   █ ████  █   █ █   █ ████      ███  █   █ ████  █████ █   █   
 ## Full-Stack Developer | Mobile Developer | Automation Enthusiast  
 
 <p align="center">
